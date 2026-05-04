@@ -32,7 +32,7 @@ Then, create your GitHub repository. Make sure you have an GitHub account, if yo
 Make your repositories name like this:
 
 {% highlight bash %}
-username.github.com
+username.github.io
 {% endhighlight %}
 OR
 {% highlight bash %}
@@ -41,7 +41,7 @@ myblog
 
 If you choose your repository name like `myblog` etc, you will get your URL like this:
 {% highlight bash %}
-https://username.github.com/<repo-name>
+https://username.github.io/<repo-name>
 {% endhighlight %}
 
 After creating your repository, then connect your project directory to GitHub.
